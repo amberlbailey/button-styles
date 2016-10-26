@@ -35,3 +35,11 @@ div {
   text-decoration: none;
   color: #000;
 }
+
+.btn-warning {
+  padding: .4em .75em .3em;
+  background-color: #f33;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+}
