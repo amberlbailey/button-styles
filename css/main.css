@@ -10,5 +10,12 @@ html {
 div {
   padding: .5rem;
   text-align: center;
-  border-width: medium;
+}
+
+.btn-primary {
+  padding: .6em;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
 }
