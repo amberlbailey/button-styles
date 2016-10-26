@@ -19,3 +19,11 @@ div {
   text-decoration: none;
   border-radius: 8px;
 }
+
+.btn-subtle {
+  padding: .6em;
+  background-color: #ccc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+}
