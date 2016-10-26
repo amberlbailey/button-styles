@@ -13,7 +13,7 @@ div {
 }
 
 .btn-primary {
-  padding: .4em .75em .3em;
+  padding: .5em;
   background-color: #333;
   color: #fff;
   text-decoration: none;
@@ -21,7 +21,7 @@ div {
 }
 
 .btn-subtle {
-  padding: .4em .75em .3em;
+  padding: .5em
   background-color: #ccc;
   color: #fff;
   text-decoration: none;
@@ -42,4 +42,13 @@ div {
   color: #fff;
   text-decoration: none;
   border-radius: 8px;
+}
+
+.btn-primary-small {
+  padding: .4em .75em .3em;
+  background-color: #ccc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: .875rem;
 }
