@@ -71,6 +71,15 @@ div {
   font-size: .875rem
 }
 
+.btn-warning-small {
+  padding: .4em .75em .3em;
+  background-color: #f33;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: .875rem
+}
+
 .btn-warning-big {
     padding: .4em .75em .3em;
     background-color: #f33;
@@ -78,5 +87,31 @@ div {
     text-decoration: none;
     border-radius: 8px;
     font-size: 1.125rem;
-  }
+}
+
+.btn-primary-big {
+  padding: .4em .75em .3em;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 1.125rem
+}
+
+.btn-subtle-big {
+  padding: .4em .75em .3em;
+  background-color: #ccc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 1.125rem
+}
+
+.btn-ghost-big {
+  border: 3px solid #333;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #000;
+  font-size: 1.125rem
 }
