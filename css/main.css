@@ -13,7 +13,7 @@ div {
 }
 
 .btn-primary {
-  padding: .5em;
+  padding: .4em .75em .3em;
   background-color: #333;
   color: #fff;
   text-decoration: none;
@@ -21,7 +21,7 @@ div {
 }
 
 .btn-subtle {
-  padding: .5em
+  padding: .4em .75em .3em;
   background-color: #ccc;
   color: #fff;
   text-decoration: none;
@@ -46,9 +46,37 @@ div {
 
 .btn-primary-small {
   padding: .4em .75em .3em;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: .875rem
+}
+
+.btn-subtle-small {
+  padding: .4em .75em .3em;
   background-color: #ccc;
   color: #fff;
   text-decoration: none;
   border-radius: 8px;
-  font-size: .875rem;
+  font-size: .875rem
+}
+
+.btn-ghost-small {
+  border: 3px solid #333;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #000;
+  font-size: .875rem
+}
+
+.btn-warning-big {
+    padding: .4em .75em .3em;
+    background-color: #f33;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 1.125rem;
+  }
 }
