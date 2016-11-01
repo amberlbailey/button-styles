@@ -12,12 +12,15 @@ div {
   text-align: center;
 }
 
+.btn {
+  display: inline-block;
+}
+
 .btn-primary {
-  padding: .4em .75em .3em;
+  padding: .75rem;
   background-color: #333;
   color: #fff;
   text-decoration: none;
-  border-radius: 8px;
 }
 
 .btn-subtle {
@@ -25,7 +28,6 @@ div {
   background-color: #ccc;
   color: #fff;
   text-decoration: none;
-  border-radius: 8px;
 }
 
 .btn-ghost {
